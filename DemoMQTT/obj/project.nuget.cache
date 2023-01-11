@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "dgSpecHash": "rLVTNPShuIR7pfh5VMb2OP6QGO9dyaxMUSqm2s2iSB78t8d8rO4n5TfQLVneo8kvsg85TQrRAXX9Phz3ka2cPA==",
+  "success": true,
+  "projectFilePath": "D:\\ReviewC#\\DemoMQTT\\DemoMQTT\\DemoMQTT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\19146\\.nuget\\packages\\metroframework\\1.2.0.3\\metroframework.1.2.0.3.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\metroframework.design\\1.2.0.3\\metroframework.design.1.2.0.3.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\metroframework.fonts\\1.2.0.3\\metroframework.fonts.1.2.0.3.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\metroframework.runtime\\1.2.0.3\\metroframework.runtime.1.2.0.3.nupkg.sha512",
+    "C:\\Users\\19146\\.nuget\\packages\\mqttnet\\4.1.4.563\\mqttnet.4.1.4.563.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MetroFramework.Design 1.2.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MetroFramework.Design",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MetroFramework.Fonts 1.2.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MetroFramework.Fonts",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'MetroFramework.RunTime 1.2.0.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "MetroFramework.RunTime",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
